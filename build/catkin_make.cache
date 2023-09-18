@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/jagadeesh/swarm/devel -DCMAKE_INSTALL_PREFIX=/home/jagadeesh/swarm/install -G Unix Makefiles
